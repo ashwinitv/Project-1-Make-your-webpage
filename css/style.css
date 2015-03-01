@@ -1,0 +1,40 @@
+.title {
+	background:white;
+  color:black;
+  border-radius:15px;
+  padding: 3px;
+  margin:5px;
+}
+body {
+	font-family: inherit;
+  background-color: grey;
+}
+.Stage {	
+  background-color: white;
+	border-radius: 15px;
+	color: black;
+	padding: 3px;
+  margin: 5px;
+}
+.concept {
+	background-color: bisque;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+}
+.concept-title {
+	font-size: 15px;
+	margin: 15px;
+	text-align: center;
+	color: white;
+  border-radius: 15px;
+	background-color:darkseagreen;
+}
+
+.Box{
+  display:flex;
+}
+/*flex layout left undisturbed with intension to retain the natural overlapping effect of text over the image./*
+
+
